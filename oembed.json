@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Taggbox",
+  "provider_url": "https://taggbox.com",
+  "title": "Taggbox Widget",
+  "html": "<iframe src=\"https://staging-widget.taggbox.com/134502?website=1\" width=\"820\" height=\"700\" loading=\"lazy\" scrolling=\"auto\" style=\"border:0;max-width:100%;overflow:auto\" allow=\"fullscreen\" allowfullscreen title=\"Taggbox Widget\"></iframe>",
+  "width": 820,
+  "height": 700
+}
