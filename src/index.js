@@ -1,5 +1,5 @@
 const WIDGET_HTML =
-  '<iframe src="https://widget.taggbox.com/335719?website=1" ' +
+  '<iframe src="https://staging-widget.taggbox.com/134502?website=1" ' +
   'width="820" height="700" loading="lazy" scrolling="auto" ' +
   'style="border:0;max-width:100%;overflow:auto" ' +
   'allow="fullscreen" allowfullscreen title="Taggbox Widget"></iframe>';
